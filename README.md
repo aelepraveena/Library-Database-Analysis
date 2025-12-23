@@ -64,12 +64,4 @@ Relationships are enforced using **foreign keys**, ensuring referential integrit
 4. Modify queries to explore additional insights
 
 
-## Use Case
-
-* Academic mini-project
-* SQL portfolio project
-* Interview discussion on database fundamentals
-* Practice for backend / database-focused roles
-
-
 Developed as part of hands-on SQL practice to strengthen database design and analysis skills.
